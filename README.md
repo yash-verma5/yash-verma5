@@ -4,10 +4,10 @@
 <img align="right" alt="Coding" width="350" src="gitlab.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashv521&label=Profile%20views&color=0e75b6&style=flat" alt="yashv521" />
-<a href="https://github.com/yashv521?tab=followers"><img src="https://img.shields.io/github/followers/yashv521?label=Followers&style=social" alt="GitHub Badge"></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-verma5&label=Profile%20views&color=0e75b6&style=flat" alt="yash-verma5" />
+<a href="https://github.com/yash-verma5?tab=followers"><img src="https://img.shields.io/github/followers/yash-verma5?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
-- 🔭 I’m currently working on [CI/CD Implementations using Jenkins](https://github.com/yashv521/Notes-app-django)
+- 🔭 I’m currently working on [CI/CD Implementations using Jenkins](https://github.com/yash-verma5/Notes-app-django)
 
 - 🌱 I’m currently learning **DevOps,AWS,Linux,Kubernetes,Docker,Terraform**
 
@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **More DevOps project Ideas as a fresher**
 
-- 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/yashv521)
+- 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/yash-verma5)
 
-- 📝 I regularly write articles on [HashNode](https://yashv521.hashnode.dev/)
+- 📝 I regularly write articles on [HashNode](https://yash-verma5.hashnode.dev/)
 
   <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350">
 
@@ -36,21 +36,21 @@
 
   <br/>
   <div align="center">
-    <a href="https://github.com/yashv521/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashv521&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashv521&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yash-verma5/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yash-verma5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-verma5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </div>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Yash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yashv521&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Yash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yash-verma5&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 <p>
   <div align="center">
-  <img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=yashv521&" alt="yashv521" />
+  <img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-verma5&" alt="yash-verma5" />
   </div>
   </p>
 
@@ -60,7 +60,7 @@
 <a href="https://twitter.com/yashver91901020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashver91901020" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-verma-260896194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-verma-260896194" height="30" width="40" /></a>
 <a href="https://instagram.com/yash.521v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash.521v" height="30" width="40" /></a>
-<a href="https://hashnode.com/@yashv521" target="blank"><img align="center" src="hashnode.png" alt="@yashv521" height="40" width="40" /></a>
+<a href="https://hashnode.com/@yash-verma5" target="blank"><img align="center" src="hashnode.png" alt="@yash-verma5" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCBIpMvp0F8nl8gTRFFmBZJA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="whatthepeeps9439" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yashv521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashv521" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yash-verma5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-verma5" height="30" width="40" /></a>
 </p>
