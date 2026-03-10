@@ -1,23 +1,25 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi 👋, I'm Yash </h1>
-<h3 align="center">A Zealous developer from India Navigating the Fullstack + DevOps Landscape</h3>
+<h3 align="center">A Enterprise Software Engineer from India Navigating the Fullstack + DevOps Landscape</h3>
 <img align="right" alt="Coding" width="350" src="gitlab.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-verma5&label=Profile%20views&color=0e75b6&style=flat" alt="yash-verma5" />
 <a href="https://github.com/yash-verma5?tab=followers"><img src="https://img.shields.io/github/followers/yash-verma5?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
-- 🔭 I’m currently working on [CI/CD Implementations using Jenkins](https://github.com/yash-verma5/Notes-app-django)
+- 🔭 I’m currently working in [Hotwax Systems](https://www.hotwaxsystems.com/)
 
-- 🌱 I’m currently learning **DevOps,AWS,Linux,Kubernetes,Docker,Terraform**
+- 🌱 I’m currently learning **Springboot,Apache Nifi,Solr,Vue.js,DevOps,AWS,Linux,Kubernetes,Docker,Terraform**
 
-- 👯 I’m looking to collaborate on **Projects related to K8s,Docker,AWS**
+- 👯 I’m looking to collaborate on **Projects related to enterprise systems, K8s,Docker,AWS**
 
-- 🤝 I’m looking for help with **More DevOps project Ideas as a fresher**
+- 🤝 I’m looking for help with **More Backend+DevOps project Ideas as a newcomer in tech world**
 
 - 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/yash-verma5)
 
 - 📝 I regularly write articles on [HashNode](https://yash-verma5.hashnode.dev/)
+
+- 📚 My work related docs are published here on [Dynamic-docs](https://yash-verma5.github.io/Dynamic-Docs/)
 
   <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350">
 
@@ -25,7 +27,7 @@
 
 - 📫 How to reach me **yashvcareers@gmail.com**
 
-- 📄 Know about my experiences [MyResume](https://rb.gy/77jui)
+- 📄 Know about my experiences [MyResume](https://shorturl.at/3yE5j)
 
 - ⚡ Fun fact **I once aspired to become a professional badminton player.**
 
